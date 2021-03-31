@@ -1,0 +1,49 @@
+
+
+
+
+
+
+	#header
+	{
+	}
+
+		#header .inner
+		{
+			background: #333;
+		}
+	
+
+
+
+
+	#main-wrapper
+	{
+	}
+
+		#main-wrapper .main-wrapper-style1
+		{
+		}
+
+			#main-wrapper .main-wrapper-style1:before
+			{
+				background: none;
+			}
+
+		#main-wrapper .main-wrapper-style3
+		{
+		}
+
+			#main-wrapper .main-wrapper-style3:before
+			{
+				background: none;
+			}
+
+
+
+
+
+	.dropotron
+	{
+		background: #333;
+	}
